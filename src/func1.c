@@ -3,8 +3,8 @@
 
 #include "funcs.h"
 
-void foo(){
-    printf("foo\n");
+void foo(int m){
+    printf("foo %d\n", m);
     return;
 }
 
