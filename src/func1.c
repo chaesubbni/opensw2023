@@ -5,6 +5,7 @@
 
 void foo(int m){
     printf("foo %d\n", m);
+    printf("foo %d\n", m);
     return;
 }
 
